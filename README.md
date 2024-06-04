@@ -30,7 +30,7 @@ To run the game locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/connect-four.git
+   git clone https://github.com/SmitParekh84/Connect-Four-Game.git
    cd connect-four
    ```
 
