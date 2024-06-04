@@ -1,5 +1,5 @@
 # Connect Four Game
-
+![Connect Four](assets/images/git.webp)
 Welcome to the Connect Four game! This project is a web-based implementation of the classic Connect Four game, developed using HTML, CSS, and JavaScript (Vue.js). The game allows two players to take turns dropping pieces into a grid, aiming to connect four of their pieces in a row either horizontally, vertically, or diagonally.
 
 ## Features
