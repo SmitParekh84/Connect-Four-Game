@@ -22,7 +22,7 @@ Welcome to the Connect Four game! This project is a web-based implementation of 
 
 ## Demo
 
-You can try out the live demo of the game [here](https://example.com).
+You can try out the live demo of the game [here](https://smitparekh84.github.io/Connect-Four-Game/).
 
 ## Installation
 
